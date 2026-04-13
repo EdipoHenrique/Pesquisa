@@ -18,4 +18,4 @@ Programa simples em Python que coleta a opinião de 50 clientes sobre o atendime
 Certifique-se de ter Python instalado (versão 3.x). No terminal, execute:
 
 ```bash
-python pesquisa.py
+python EdipoHenrique_Ag8_DS_I.py
